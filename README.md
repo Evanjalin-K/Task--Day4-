@@ -1,6 +1,6 @@
 # Day 4 Task
 
-## **Solving Problems by Using Anonymous Functions ,IIFE (Immediately Invoked Function Expression) in JavaScript**
+## **Solving the given Problems by Using Anonymous Functions ,IIFE (Immediately Invoked Function Expression) in JavaScript**
 
 1. Print odd numbers in an array:
    1. Displayed all the odd numbers in the array by using anonymous functions and IIFE(Immediately invoked function expression)
@@ -27,7 +27,7 @@
    1. Displayed the rotated array in k times by using anonymous functions and IIFE (immediately invoked function expression).
    2. Get the code in the [AnonymousFunction&IIFE](./AnonymousFunction&IIFE/Rotate%20an%20array%20by%20k%20times/) folder
 
-   ## **Solving the problems by using Arrow Function in JavaScript**
+   ## **Solving the given problems by using Arrow Function in JavaScript**
 
    1. Print odd numbers in an array:
       1. Displayed all the odd numbers in the array by using Arrow Function
