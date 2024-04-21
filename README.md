@@ -1,6 +1,6 @@
 # Day 4 Task
 
-## **Solving the given Problems by Using Anonymous Functions ,IIFE (Immediately Invoked Function Expression) in JavaScript**
+## **Solving the given problems by using Anonymous Functions ,IIFE (Immediately Invoked Function Expression) in JavaScript**
 
 1. Print odd numbers in an array:
    1. Displayed all the odd numbers in the array by using anonymous functions and IIFE(Immediately invoked function expression)
